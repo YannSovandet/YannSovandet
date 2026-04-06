@@ -3,7 +3,7 @@
 🎓 Final-year Computer Science student at RUPP (Royal University of Phnom Penh)  
 👨‍💻 Flutter & Laravel Developer  
 📱 Specialized in building cross-platform mobile applications (iOS & Android)  
-🚀 Passionate about crafting clean UIs using Flutter widgets  
+🚀 Passionate about crafting clean UIs using a lot of Flutter widgets  
 
 ---
 
@@ -28,6 +28,6 @@
 
 - 📱 Flutter E-commerce App(Shoe Store App)
 - 📱 Flutter E-commerce App(Phone Store App) 
-- 🧾 POS System  
+- 🧾 POS App 
 
 ---
