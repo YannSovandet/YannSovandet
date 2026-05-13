@@ -1,7 +1,7 @@
 # Hi 👋, I'm Yann Sovandet
 
-🎓 Final-year Computer Science student at RUPP (Royal University of Phnom Penh)  
-👨‍💻 Flutter & Laravel Developer  
+🎓 I fresh graduate with Bachelor's degree in Computer Science from the Royal University of Phnom Penh (RUPP).  
+👨‍💻 Flutter Developer  
 📱 Specialized in building cross-platform mobile applications (iOS & Android)  
 🚀 Passionate about crafting clean UIs using a lot of Flutter widgets  
 
