@@ -19,7 +19,7 @@
 ## 🌐 Connect with me
 
 - 🌍 Portfolio: https://your-portfolio.com  
-- 💼 LinkedIn: https://linkedin.com/in/your-profile  
+- 💼 LinkedIn: https://[linkedin.com/in/your-profile  ](https://www.linkedin.com/feed/)
 - 📧 Email: yannsovandet@email.com  
 
 ---
