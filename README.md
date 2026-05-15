@@ -1,6 +1,6 @@
 # Hi 👋, I'm Yann Sovandet
 
-🎓 I fresh graduate with Bachelor's degree in Computer Science from the Royal University of Phnom Penh (RUPP).  
+🎓 I am fresh graduate with Bachelor's degree in Computer Science from the Royal University of Phnom Penh (RUPP).  
 👨‍💻 Flutter Developer  
 📱 Specialized in building cross-platform mobile applications (iOS & Android)  
 🚀 Passionate about crafting clean UIs using a lot of Flutter widgets  
