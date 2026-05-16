@@ -18,7 +18,7 @@
 
 ## 🌐 Connect with me
 
-- 🌍 Portfolio: https://your-portfolio.com  
+- 🌍 Portfolio: [https://your-portfolio.com  ](https://portfolio-7weg.vercel.app/)
 - 💼 LinkedIn: https://[linkedin.com/in/your-profile  ](https://www.linkedin.com/feed/)
 - 📧 Email: yannsovandet@email.com  
 
