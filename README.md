@@ -20,6 +20,7 @@
 
 - 🌍 Portfolio: [https://your-portfolio.com  ](https://portfolio-7weg.vercel.app/)
 - 💼 LinkedIn: https://[linkedin.com/in/your-profile  ](https://www.linkedin.com/feed/)
+- 💬 Telegram: https://t.me/the_vandet
 - 📧 Email: yannsovandet@email.com  
 
 ---
